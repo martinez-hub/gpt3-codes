@@ -1,7 +1,7 @@
 import functions_file
 
 #opening file to read, please add fullpath of the file
-file = open(r"/Users/josuemartinez/Downloads/ASCE.txt", "r+")
+file = open(r"", "r+")
 
 array_list = functions_file.filter_file(file)
 file.close()
